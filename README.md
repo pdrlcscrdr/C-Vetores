@@ -1,1 +1,1 @@
-Códigos que utilizam vetores para realizar funções.
+Códigos que mostram formas de aramzenar valores em vetores, e os utilizam para realizar funções.
